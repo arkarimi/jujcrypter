@@ -17,10 +17,11 @@ def Error2():
 	print("Wrong input: Please enter 1 or 2 or 3 | Not a string !")
 	time.sleep(5)
 	main_menu()
-# Encrypter
+# About
 def about():
 	print("A message encrypter named jujcrypt that is programmed with python | Programmers: @arkarimi and @SepyMovasat")
 	time.sleep(6)
+# Encrypter
 def enc():
 	try:
 		alphabet = {
@@ -193,7 +194,7 @@ def main_menu():
 		print("3: About")
 		print("4: Exit")
 		print("A program by @SepyMovasat and @arkarimi")
-		main_inp = int(input("Which one ? [1,2,3] "))
+		main_inp = int(input("Which one ? [1,2,3,4] "))
 		if main_inp == 1:
 			enc()
 		elif main_inp == 2:
