@@ -19,8 +19,10 @@ def Error2():
 	main_menu()
 # About
 def about():
+	cls()
 	print("A message encrypter named jujcrypt that is programmed with python | Programmers: @arkarimi and @SepyMovasat")
 	time.sleep(6)
+	main_menu()
 # Encrypter
 def enc():
 	try:
