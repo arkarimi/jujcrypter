@@ -1,4 +1,3 @@
-# Any issues ? Report on github
 import textwrap
 import os
 import time
@@ -10,7 +9,7 @@ def cls():
         _ = os.system('cls')
 # Error1
 def Error1():
-	print("KEY ERROR: At least one character can not be used(For example: \ )! Wait for updates in the future...")
+	print("KEY ERROR: At least one character can not be used(For example: \ or capital characters )! Wait for updates in the future...")
 	time.sleep(7)
 	main_menu()
 # Error2
