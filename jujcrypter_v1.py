@@ -208,6 +208,8 @@ def main_menu():
 			exit()
 		else:
 			print("ERROR: Please choose from 1 or 2 or 3 or 4")
+			time.sleep(4)
+			main_menu()
 	except (ValueError,TypeError):
 		Error2()
 main_menu()
