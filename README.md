@@ -5,5 +5,3 @@ If you are a student , it is super useful for you... Because the admin of the se
 Use it... Be private and secure :)
 Persian language will be added soon...
 Found any problems? Please contact us.
-EXE file download link:
-https://mega.nz/file/FEo3XCqT#0ncmzbw_4di3OQreNq-0QUCzOAiixJW7dJsuB54u21k
