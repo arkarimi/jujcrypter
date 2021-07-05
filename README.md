@@ -1,4 +1,4 @@
-# jujcrypter
+# Jujcrypter
 
 * This is a fun encrypter with decrypter by @SepyMovasat and @arkarimi.
 * Can be used in every kind of messaging or social media app(if you want it to be completly secure and private).
