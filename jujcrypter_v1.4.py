@@ -140,7 +140,7 @@ try:
     			majid += alphabet[lol]
 
     			#v1.4 -- new
-    			letters = string.punctuation,string.digits,string.ascii_letters
+    			letters = string.ascii_letters + string.digits + string.punctuation
     			ran = ''.join(random.choice(letters) for i in range(3))
     			majid += str(ran)
                 
