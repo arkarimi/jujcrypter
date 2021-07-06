@@ -3,8 +3,6 @@ import os
 import time
 import random
 import string
-# random string for more heavy encryption ! in the new release: v_1.3
-
 # clear screen
 def cls():
     if os.name == 'posix':
