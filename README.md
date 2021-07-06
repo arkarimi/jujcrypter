@@ -7,5 +7,5 @@
 * Persian language added in v_1.2 !!!
 * Random key added in v_1.3 for heavier encryption !
 * Random charsacters added to v_1.4 for MASTER ENCRYPTION !
-* EXE file download link: https://mega.nz/file/JY5wWZQZ#N3mVw5b-8_13ltz2-_QvzaSugTe-fXuRsST0iSJc5WI
+* EXE file download link: https://mega.nz/file/1JggSYLa#3BB_MnDBGlK7i6CK-p0Zt0DtKCNkFhfpFliZ5oSoJLs
 * Found any problems? Please contact us.
