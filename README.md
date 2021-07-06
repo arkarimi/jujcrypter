@@ -6,4 +6,5 @@
 * Use it... Be private and secure :)
 * Persian language added in v_1.2 !!!
 * Random key added in v_1.3 for heavier encryption !
+* Random charsacters added to v_1.4 for MASTER ENCRYPTION !
 * Found any problems? Please contact us.
