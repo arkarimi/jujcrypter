@@ -5,6 +5,7 @@ import time
 import random
 import string
 
+#New line for fun
 
 try:
     # clear screen
