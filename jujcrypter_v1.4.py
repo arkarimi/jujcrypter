@@ -5,7 +5,7 @@ import time
 import random
 import string
 
-#New line for fun
+#Our very first python program - we were a bit noob those days!
 
 try:
     # clear screen
